@@ -1,5 +1,4 @@
-# AzgpEng
-## [AzgpEng]: https://www.azgpeng.com
-# JrC developer | [MYPortfolio](https://raviriley.github.io/agency-jekyll-theme-starter/)
+# [AzgpEng]: https://www.azgpeng.com
+# JrC developer | [MYPortfolio](https://azgpeng.com/jrc/)
 ![screenshot](https://imagizer.imageshack.com/img923/7895/5cSqLO.png)
 
